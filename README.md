@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi👋, I'm Loup
+
+I'm a **Cybersecurity student** specializing in **Machine Learning integration for cybersecurity**.
+
+**Interests:** detection & anomaly detection, log/telemetry analysis, security automation, applied ML.
+
+## Projects
+I work on security and ML-driven security projects—check my pinned repos for what I’ve built in the past few months.
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loup-devernay-1ba346217)
 
 <!--
 **Poulouloup/Poulouloup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
